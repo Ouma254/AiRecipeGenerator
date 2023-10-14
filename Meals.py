@@ -62,7 +62,6 @@ class Meals:
             ]
         }
 
-        if user_orders == 'Ugali-Beef':
 
 
 
